@@ -16,7 +16,7 @@ Gamora Desktop extends the platform into a downloadable, self-contained desktop 
 
 You can **download the latest release** of Gamora Desktop here:
 
-➡️ **[Download Executable](https://example.com/gamora-desktop-download)** ← _(replace with real link)_
+➡️ **[Download Executable](https://gamora-final-angel.s3.amazonaws.com/download/Gamora Setup 1.0.0.exe)** 
 
 > No installation or compilation required — just download and run.
 
