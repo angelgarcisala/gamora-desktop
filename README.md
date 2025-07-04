@@ -39,13 +39,3 @@ You can **download the latest release** of Gamora Desktop here:
 - **Node.js** – runtime and build tooling
 
 ---
-
-## 🧑‍💻 Development Setup
-
-For contributors or developers:
-
-```bash
-git clone https://github.com/angelgarcisala/gamora-desktop.git
-cd gamora-desktop
-npm install
-npm run start
